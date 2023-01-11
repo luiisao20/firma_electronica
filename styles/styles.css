@@ -1,0 +1,40 @@
+/*General de elementos*/
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color: #546e7a;
+    color: #E9ECEE;
+    text-align: center;
+    font: 200 14px 'Ubuntu', sans-serif;
+}
+h1{
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 40px;
+}
+h2{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 30px;
+}
+td{
+    padding: 5px;
+}
+/*IDs y Clases*/
+.table{
+    text-align: justify;
+    color: rgb(0, 0, 0);
+}
+.seccion{
+    padding: 10px 200px 10px 100px;
+}
+#data{
+    border-top: 1px solid #ffc900;
+    border-bottom: 1px solid #ffc900;
+    background-color: #7EA1C4;
+}
+#content{
+    border-left: 1px solid #ffc900;
+}
